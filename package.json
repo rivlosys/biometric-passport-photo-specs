@@ -1,0 +1,33 @@
+{
+  "name": "biometric-passport-photo-specs",
+  "version": "1.0.0",
+  "description": "Authoritative international biometric passport, visa, and ID photo specifications, head height tolerance ratios, and 4x6 print grid packing algorithms.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivlosys/biometric-passport-photo-specs.git"
+  },
+  "keywords": [
+    "passport-photo",
+    "visa-photo",
+    "icao-9303",
+    "ds-160",
+    "dv-lottery",
+    "ircc",
+    "biometric",
+    "photo-resizer",
+    "crop",
+    "specs",
+    "typescript"
+  ],
+  "author": "UseCOS Engineering (https://usecos.app)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rivlosys/biometric-passport-photo-specs/issues"
+  },
+  "homepage": "https://usecos.app/tools/passport-photo-resizer"
+}
