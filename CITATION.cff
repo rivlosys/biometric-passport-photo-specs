@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or its biometric specifications, please cite it as below."
+authors:
+  - name: "UseCOS Engineering"
+    website: "https://usecos.app"
+title: "Biometric Passport Photo Specifications: ICAO Doc 9303, US State Dept & IRCC Reference Implementation"
+version: 1.0.0
+date-released: 2026-10-09
+url: "https://github.com/rivlosys/biometric-passport-photo-specs"
+repository-code: "https://github.com/rivlosys/biometric-passport-photo-specs"
+keywords:
+  - "biometric photo"
+  - "passport photo"
+  - "icao 9303"
+  - "ds-160"
+  - "dv-lottery"
+  - "ircc"
+license: "MIT"
